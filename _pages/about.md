@@ -60,10 +60,10 @@ My research interests primary focus on 🥔potato breeding🥔 by bioinformatics
 
 
 # Strengths
-- Programming language :	Linux, Python and R.
-- Bioinformatics:	Pangenomes, comparative genomics, transcriptomic, microbiome et al. (All bioinformatics-related analyses are not difficult for me).
+- __Programming language__ :	Linux, Python and R.
+- __Bioinformatics__:	Pangenomes, comparative genomics, transcriptomic, microbiome et al. (All bioinformatics-related analyses are not difficult for me).
 For example: Genome assembly, annotation, variation calling (SNPs, SVs), Differential gene expression, Gene ontology (GO), Synteny analysis, phylogenetic tree, population structure, Principal component analysis (PCA), Bulked Segregant Analysis (BSA), ChIP-seq, 16S, 18S, ITS.
-- Language:	English: IELTS 6.5 (2019), Korean, Japanese and French (Beginner).
-- Personal:	Strong self-learning ability, Independent, Diligent, Love life/nature🎾⛰🌊🏂🏻🪂...
+- __Language:	English__: IELTS 6.5 (2019), Korean, Japanese and French (Beginner).
+- __Personal__:	Strong self-learning ability, Independent, Diligent, Love life/nature🎾⛰🌊🏂🏻🪂...
 
 
