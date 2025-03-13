@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lin Cheng"
+  name             : "Lin Cheng <br> 程林"
   avatar           : "images/web-app-manifest-512x512.png"
   bio              : ""
   location         : "Liège, Belgium"
