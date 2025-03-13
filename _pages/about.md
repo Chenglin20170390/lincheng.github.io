@@ -28,7 +28,10 @@ redirect_from:
 # Selected Publications
 - [Leveraging a phased pangenome for haplotype design of hybrid potato](https://www.nature.com/articles/s41586-024-08476-9)
   - <u>Lin Cheng*</u>, Nan Wang, Zhigui Bao, Qian Zhou, Andrea Guarracino, Yuting Yang, Pei Wang, Zhiyang Zhang, Dié Tang, Pingxian Zhang, Yaoyao Wu, Yao Zhou, Yi Zheng, Yong Hu, Qun Lian, Zhaoxu Ma, Ludivine Lassois, Chunzhi Zhang, William J. Lucas, Erik Garrison, Nils Stein, Thomas Städler, Yongfeng Zhou & Sanwen Huang†
-  - ___Nature___ (2025) \|[Code](https://github.com/Chenglin20170390/Haplotype-diversity) \|<strong><span class='show_paper_citations' data='0YEGx_4AAAAJ:0EnyYjriUFMC'></span></strong>
+  - ___Nature___ (2025) \|[Code](https://github.com/Chenglin20170390/Haplotype-diversity)
+
+    <span class='show_paper_citations' data='0YEGx_4AAAAJ:0EnyYjriUFMC'></span>
+    <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
 
 - [‘Perfect potato’ designed thanks to unearthed genetic diversity](https://www.nature.com/articles/d41586-025-00187-z)
   - <u>Lin Cheng*</u> & Sanwen Huang†
