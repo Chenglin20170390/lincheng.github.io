@@ -5,10 +5,10 @@ main:
 
 
   - title: "Publications"
-    url: "/#-selected-publications"
+    url: "/#selected-publications"
 
   - title: "Recent News"
-    url: "/#-recent-news"
+    url: "/#recent-news"
     
 # - title: "Honors and Awards"
 #    url: "/#-honors-and-awards"
@@ -20,4 +20,4 @@ main:
 #    url: "/#-invited-talks"
 
   - title: "Strengths"
-    url: "/#-strengths"
+    url: "/#strengths"
