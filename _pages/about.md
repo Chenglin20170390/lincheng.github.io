@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-  I am a joint Ph.D. student <a href='https://scholar.google.com/citations?user=0YEGx_4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). 
+  I am a joint Ph.D. student <a href='https://scholar.google.com/citations?user=0YEGx_4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>,
   focused on Bioinformatics at the Agricultural Genomics Institute at Shenzhen (AGIS, China🇨🇳) and the University of Liège (ULiège, Belgium🇧🇪), primarily supervised by [Prof. Sanwen Huang](https://scholar.google.com.hk/citations?user=Xezg1IUAAAAJ&hl=en). Before joining AGIS, I received my M.S. in the Department of Plant Science at Kongju National University (KNU, South Korea 🇰🇷), supervised by [Prof. Yong-jin Park](https://scholar.google.com/citations?user=_lZNEvsAAAAJ&hl=en). 
   <br>
   <br>
